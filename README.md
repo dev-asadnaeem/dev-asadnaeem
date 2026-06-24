@@ -89,14 +89,16 @@ I am a **Computer Science graduate** with hands-on experience in software develo
       <a href="https://github.com/fa22-bcs-013-cloud/Counsel-X.git">🖥️ Repository</a>
     </td>
     <td width="33.3%" valign="top">
-      <h3>📄 Online Paper Submission</h3>
-      <p><i>Web application for academic conferences.</i></p>
+      <h3>🍽️ Restaurant MS</h3>
+      <p><i>Clean MVC backend architecture for scale-ready dining.</i></p>
       <ul>
-        <li>🔑 Role-based system for authors, reviewers, and admins.</li>
-        <li>📝 RESTful APIs for handling submissions and workflows.</li>
-        <li>📈 Features like paper upload and status tracking.</li>
+        <li>🔐 Secure JWT token-based authentication.</li>
+        <li>📁 Model-View-Controller backend structure.</li>
+        <li>🌐 Dynamic EJS server-side HTML rendering.</li>
       </ul>
-      <b>Stack:</b> React.js, Node.js, Express.js, MongoDB
+      <b>Stack:</b> Node.js, Express.js, MongoDB, EJS, JWT
+      <br/><br/>
+      <a href="https://github.com/dev-asadnaeem/RestorentManagementSystem.git">🖥️ Repository</a>
     </td>
     <td width="33.3%" valign="top">
       <h3>🎟️ Event Registration</h3>
