@@ -11,6 +11,9 @@
 ---
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/asadnaeemdeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Asad%20Naeem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:asadnaeem0255@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -82,6 +85,8 @@ I am a **Computer Science graduate** with hands-on experience in software develo
         <li>📹 Live chat routing and video calling capabilities.</li>
       </ul>
       <b>Stack:</b> React.js, Node.js, Express.js, MongoDB, Redis, Zod
+      <br/><br/>
+      <a href="https://github.com/fa22-bcs-013-cloud/Counsel-X.git">🖥️ Repository</a>
     </td>
     <td width="33.3%" valign="top">
       <h3>📄 Online Paper Submission</h3>
@@ -102,6 +107,8 @@ I am a **Computer Science graduate** with hands-on experience in software develo
         <li>⚙️ Full CRUD operations for creating and updating events.</li>
       </ul>
       <b>Stack:</b> React.js, Node.js, Express.js, MongoDB, JWT
+      <br/><br/>
+      <a href="https://github.com/dev-asadnaeem/Event-Registration-System-MERN.git">🖥️ Repository</a>
     </td>
   </tr>
 </table>
@@ -130,6 +137,9 @@ I am a **Computer Science graduate** with hands-on experience in software develo
   <p>I'm open to <b>internships</b>, <b>freelance projects</b>, and <b>collaboration</b> on interesting ideas.<br>
   Whether you want to build something together or just say hi — my inbox is always open! 👋</p>
   
+  <a href="https://www.linkedin.com/in/asadnaeemdeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:asadnaeem0255@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
